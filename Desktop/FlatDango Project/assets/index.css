@@ -1,0 +1,12 @@
+.ui-orange button {
+  background-color: red;
+  color: white;
+  border-radius: 30px;
+  width: 38px;
+  height: 20px;
+  border: none;
+}
+
+.ui-orange button:hover {
+background-color: black;
+}
